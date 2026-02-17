@@ -10,7 +10,7 @@
 ### Issue Book
 ![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/issuebook.png?raw=true)
 ### Issued Book
-![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/bookissued.png?raw=true)
+/*![doctor snap](https://github.com/sumitkumar1503/librarymanagement/blob/master/static/screenshots/bookissued.png?raw=true)*/
 ---
 ## Functions
 ### Admin
